@@ -1,0 +1,5 @@
+*.class
+target
+*.iml
+/.idea/
+/rabbitmq_auth_backend_spring_boot/.idea/
